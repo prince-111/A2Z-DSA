@@ -21,4 +21,4 @@ This repository contains solutions to a variety of Data Structures and Algorithm
 
 
 
-<img width="581" alt="image" src="https://github.com/user-attachments/assets/e57bf1a5-aaa5-49b3-8899-165635bb3ed1">
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/e57bf1a5-aaa5-49b3-8899-165635bb3ed1">
